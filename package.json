@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@docusaurus/preset-classic": "^3.6.3",
+    "@docusaurus/types": "^3.6.3",
+    "prism-react-renderer": "^2.4.1"
+  },
+  "scripts": {
+    "start": "docusaurus start"
+  }
+}
